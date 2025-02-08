@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 # OpenWeatherMap API Key (Replace with your own key)
 API_KEY = "bba61de3ce17f69dd6dddccc2d46fb84"
-CITY = "San Francisco"
+CITY = "Minneapolis"
 
 # Fetch weather data
 def get_weather():

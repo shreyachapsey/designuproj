@@ -4,7 +4,7 @@ from plyer import notification
 from datetime import datetime, timedelta
 
 # OpenWeatherMap API Key (Replace with your own key)
-API_KEY = "bba61de3ce17f69dd6dddccc2d46fb84"
+API_KEY = ""
 CITY = "Minneapolis"
 
 # Fetch weather data
